@@ -89,7 +89,7 @@ whois networkwalks.com
 
 ### Screenshot 1: WHOIS Domain Information
 
-![](Whois_Report.png)
+![WHOIS domain registration output](images/01-WHOIS.png)
 
 *Figure 1: WHOIS output for networkwalks.com.*
 
@@ -118,6 +118,8 @@ whatweb networkwalks.com
 
 ### Screenshot 2: WhatWeb Technology Identification
 
+![WhatWeb technology fingerprinting output](images/02-WhatWeb.png)
+
 
 *Figure 2: WhatWeb results, including an HTTPS redirect and reported web technologies.*
 
@@ -143,7 +145,7 @@ nslookup networkwalks.com
 
 ### Screenshot 3: Domain Name Resolution
 
-![](wafw00f Screenshot.png)
+![nslookup DNS resolution output](images/03-nslookup.png)
 
 *Figure 3: nslookup returning the target domain's public IP address.*
 
@@ -392,4 +394,3 @@ Cybersecurity | Network Security | IT Auditing | Governance, Risk & Compliance |
 *— Lamidi Olatunji Micheal Eleshin*
 
 </div>
-
