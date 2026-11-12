@@ -251,7 +251,7 @@ The generated command used **`nmap -sn`**, which performs host discovery without
 
 ### Screenshot 7: Scan Output and Annotated Topology
 
-![Privacy-edited Zenmap scan and annotated topology showing four selected IP and MAC pairs](images/07-Zenmap-Scan-and-Topology.png)
+![](07-Zenmap-Scan-and-Topology.png)
 
 *Figure 7: Combined Zenmap scan output and annotated topology. Four selected IP and MAC pairs remain visible; other devices' identifiers are obscured.*
 
