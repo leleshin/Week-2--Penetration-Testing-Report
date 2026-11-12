@@ -173,7 +173,7 @@ curl -I https://networkwalks.com
 
 ### Screenshot 4: HTTP Response Headers
 
-![curl output showing the HTTPS response headers](images/04-curl-Headers.png)
+![](Curl-I-Report.png)
 
 *Figure 4: curl response headers, including WordPress API links and server information.*
 
