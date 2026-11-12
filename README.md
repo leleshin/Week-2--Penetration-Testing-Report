@@ -118,7 +118,7 @@ whatweb networkwalks.com
 
 ### Screenshot 2: WhatWeb Technology Identification
 
-![WhatWeb output showing website technologies and response information](images/02-WhatWeb.png)
+![](Whatweb Screenshot.png)
 
 *Figure 2: WhatWeb results, including an HTTPS redirect and reported web technologies.*
 
