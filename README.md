@@ -5,8 +5,6 @@
 
 **NETWORKWALKS | CYBERSECURITY & PENETRATION TESTING INTERNSHIP**
 
-**Hands-On Domain Research, Website Fingerprinting, DNS Enumeration & Local Network Discovery**
-
 <img src="https://img.shields.io/badge/Tool-WHOIS-0070C0?style=flat-square" />
 <img src="https://img.shields.io/badge/Tool-WhatWeb-C00000?style=flat-square" />
 <img src="https://img.shields.io/badge/Tool-nslookup-404040?style=flat-square" />
