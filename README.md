@@ -145,7 +145,7 @@ nslookup networkwalks.com
 
 ### Screenshot 3: Domain Name Resolution
 
-![nslookup DNS resolution output](images/03-nslookup.png)
+![](nslookup-Report.png)
 
 *Figure 3: nslookup returning the target domain's public IP address.*
 
