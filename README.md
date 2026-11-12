@@ -221,7 +221,7 @@ dnsrecon -d networkwalks.com
 
 ### Screenshot 6: DNSRecon Enumeration Results
 
-![DNSRecon general enumeration showing DNS and service records](images/06-DNSRecon.png)
+![](Curl-I-Report.png)
 
 *Figure 6: DNSRecon output showing name servers, mail information, TXT records and autodiscover results.*
 
