@@ -121,8 +121,6 @@ whatweb networkwalks.com
 
 *Figure 2: WhatWeb results, including an HTTPS redirect and reported web technologies.*
 
-![](Whatweb Screenshot.png)
-
 ### Observations
 
 - An HTTP **301 redirect** led to HTTPS, followed by **200 OK** responses.
