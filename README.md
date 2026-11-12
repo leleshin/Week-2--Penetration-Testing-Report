@@ -14,10 +14,6 @@
 <img src="https://img.shields.io/badge/Tool-wafw00f-E87500?style=flat-square" />
 <img src="https://img.shields.io/badge/Tool-DNSRecon-0070C0?style=flat-square" />
 <img src="https://img.shields.io/badge/Tool-Zenmap%20%7C%20Nmap-C00000?style=flat-square" />
-<img src="https://img.shields.io/badge/Environment-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square" />
-<img src="https://img.shields.io/badge/Skill-Network_Discovery-404040?style=flat-square&labelColor=C00000" />
-<img src="https://img.shields.io/badge/Internship-B084-238F89?style=flat-square" />
 
 </div>
 
