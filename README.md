@@ -89,7 +89,7 @@ whois networkwalks.com
 
 ### Screenshot 1: WHOIS Domain Information
 
-![WHOIS output showing the target domain registration and name servers](images/01-WHOIS.png)
+![](Whois_Report.png)
 
 *Figure 1: WHOIS output for networkwalks.com.*
 
