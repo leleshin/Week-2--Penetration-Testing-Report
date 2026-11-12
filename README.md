@@ -201,7 +201,7 @@ wafw00f networkwalks.com
 
 ### Screenshot 5: Web Application Firewall Detection
 
-![wafw00f output reporting ModSecurity SpiderLabs](images/05-wafw00f.png)
+![](wafw00f-Report.png)
 
 *Figure 5: wafw00f reporting ModSecurity (SpiderLabs) after two requests.*
 
