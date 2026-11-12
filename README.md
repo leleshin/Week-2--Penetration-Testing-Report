@@ -143,7 +143,7 @@ nslookup networkwalks.com
 
 ### Screenshot 3: Domain Name Resolution
 
-![nslookup output resolving networkwalks.com](images/03-nslookup.png)
+![](wafw00f Screenshot.png)
 
 *Figure 3: nslookup returning the target domain's public IP address.*
 
